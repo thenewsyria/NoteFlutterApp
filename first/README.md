@@ -6,6 +6,7 @@ In this app we built a notes app using flutter framework and firebase as backend
 ![(236) 9 - App Notes part 1 (Sign Up) - YouTube (2)](https://user-images.githubusercontent.com/96256695/211833899-7fff498a-f162-43c1-91ca-f1c06600c135.png)
 ![(236) 9 - App Notes part 1 (Sign Up) - YouTube](https://user-images.githubusercontent.com/96256695/211833912-6ede1a60-1ebe-464a-8e50-1fca2deaa14c.png)
 ![(236) 29 - App Notes part 3 - YouTube](https://user-images.githubusercontent.com/96256695/211834667-ae04bec1-9760-4454-b555-9fa7f0d6e757.png)
+![(236) 35 App Notes part 9 (View Notes) - YouTube](https://user-images.githubusercontent.com/96256695/211836183-5d644ec6-4fab-413e-99d2-b03d3422331a.png)
 
 ## Getting Started
 
