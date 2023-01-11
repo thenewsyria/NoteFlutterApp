@@ -1,6 +1,7 @@
 # first
 
-A new Flutter project.
+In this app we built a notes app using flutter framework and firebase as backend we dealt with firebase authentication, first database, real time database storage and many more things in this app we focused not on UI design but on handling firebase
+
 
 ## Getting Started
 
